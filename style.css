@@ -1,0 +1,263 @@
+.nav{
+    /*border: 2px solid black;*/
+    height: 60px;
+    width: 1450px;
+    
+}
+.navbutton{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    font-size: 30px; 
+    float: left;
+}
+.githalu{
+    color: gray;
+}
+.wiki{
+    /*border: 2px solid black;*/
+    width: 120px;
+   margin-left: 5px;
+    margin-top: 10px;
+    float: left;
+}
+.wikitext{
+     margin-top: 20px;
+    font-family: sans-serif;
+    font-size: 16px;
+    
+}
+.yrs{
+    font-size: 8px;
+    font-family: sans-serif;
+}
+.img{
+  height: 20px;
+  width: 20px;
+  margin-top: -2px;
+}
+.searchbar{
+    height: 30px;
+    width: 418px;
+   /* border: 2px solid black;*/
+    float: right;
+    margin-top: 14px;
+    margin-right: 694px;
+}
+.search{
+   margin-left: 363px;
+   padding: 5px;
+   float: right;
+}
+.searchmenu{
+    padding-right: 219px;
+    margin-top: -29px;
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.navtext{
+    float: left;
+    /*border: 2px solid black;*/
+    width: 268px;
+    height: 30px;
+   margin-left: 940px;
+    margin-top: -23px;
+}
+.pilla{
+    word-spacing: 20px;
+}
+.pichuka{
+    text-decoration: none;
+}
+.p1{
+    /*border: 2px solid black;*/
+    position: fixed;
+    left: 12px;
+    top: 50px;
+    width: 150px;
+    height: 589px;
+}
+.navyashree{ 
+   margin-top: 74px;
+   margin-bottom: 5px;
+}
+.pandhi{
+    margin-top: -4px;
+}
+.badgirl{
+   display: inline-block;
+   margin-top: -20px;  
+}
+.priti{
+    display: inline-block;
+   margin-top: 8px;
+}
+.p2{
+    /*border: 2px solid black;*/
+    width: 995px;
+    min-height: 4400px;
+    margin-left: 180px;
+}
+.p2head{
+    display: inline-block;
+    margin-bottom: -5px;
+}
+.monkey{
+    display: inline-block;
+    margin-left: 640px;
+}
+.pics{
+    /*border: 2px solid black;*/
+    height: 310px;
+    width: 800px;
+    margin-left: -41px;
+
+}
+.lotuspic{
+    border: 1px solid gray;
+    height: 305px;
+    width: 245px;
+    background-color: #F8F9FA;
+    float: left;
+    margin-left: 30px;
+}
+.lotusimg{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.lotuspic1{
+    border: 1px solid gray;
+    height: 305px;
+    width: 345px;
+    background-color: #F8F9FA;
+    float: right;
+    margin-right: 130px;
+}
+.lotusimg1{
+  margin-top: 5px;
+  margin-left: 5px; 
+  height: 205px;
+  width: 335px; 
+}
+#lula{ 
+    color: blue;
+}
+.stupid{
+    border-bottom: 1px solid gray;
+    height: 30px;
+    width: 810px;
+    margin-top: -5px;
+}
+.shree{
+    word-spacing: 5px;
+}
+.badeti1{
+    display: inline-block;
+    margin-left:535px;
+}
+.badeti{
+    word-spacing: 5px;
+}
+.edit{
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+.ok{
+    text-decoration: none;
+}
+a{
+ text-decoration: none;
+}
+.noise{
+    /*border: 2px solid black;*/
+    height: 80px;
+    width: 800px;
+}
+.plug{
+    height: 45px;
+    width: 45px;
+    margin-left: 10px;
+    float: left;
+}
+.noo{
+    display: inline-block;
+    float: right;
+    margin-top:1px;
+    margin-right: 290px;
+}
+.n{
+    display: inline-block;
+    float: right;
+    margin-top:-21px;
+    margin-left: 63px;   
+}
+.enjoy{
+    border: 1px solid #A2A9B1;
+    height: 40px;
+    width: 800px;
+    margin-top: 25px;
+    background-color: #F8F9FA;
+}
+.gage{
+  display: inline-block;
+  color: #3056A9;
+  font-size: 17px;
+  margin-top: 10px;
+}
+.p3{
+    border-top: 1px solid gray;
+    height: 120px;
+    width: 1450px;
+    margin-top: 20px;
+}
+.pupi{
+    font-size: 13px;
+}
+.pupra{
+  font-size: 13px;  
+}
+.pupa{
+    display: inline-block;
+    word-spacing:20px ;
+    font-size: 13px;
+}
+.p5{
+    position: fixed;
+    top: 50px;
+    top: 85px;
+    right: 109px;
+    height: 589px;
+}
+.navyashree1{ 
+   margin-top:32px;
+   margin-bottom: 5px;
+}
+.pandhi1{
+  margin-bottom: 1px; 
+  margin-top: 1px; 
+}
+.small{
+    margin-top: -21px;
+    
+}
+.heha{
+    display: inline-block;
+    margin-bottom: 2px;
+    color: #54595D;
+}
+.hihihi{
+    display: inline-block;
+    margin-bottom: 2px;
+    color: #54595D;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.wall{
+    font-size: 18px;
+}
+
